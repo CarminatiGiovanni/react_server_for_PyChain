@@ -2,12 +2,13 @@ import React, {useState, createContext, useEffect} from "react";
 import './style/css/app.css'
 
 import ServerAddress from './pages/server_address';
-import Blockchain from './pages/Blockchain'
+import Blockchain from './pages/BlockchainTab'
 import {Tabs,Tab} from 'react-bootstrap'
 import TransactionTab from './pages/TransactionTab'
 import PoolPendingTransactionTab from './pages/PoolPendingTransactionTab'
 
 import { BlockchainJSONInterface } from "./classes";
+import AddTransaction from "./pages/AddTransactionTab";
 
 type TypeBlockchainContext = {blockchain: BlockchainJSONInterface | null, setBlockchain: React.Dispatch<React.SetStateAction<BlockchainJSONInterface>> | null}
 
@@ -30,6 +31,9 @@ export const App = (props: any) => {
         </Tab>
         <Tab eventKey="Pending Transaction" title="Pending Transaction">
           <PoolPendingTransactionTab/>
+        </Tab>
+        <Tab eventKey="Add Transaction" title="Add Transaction">
+          <AddTransaction/>
         </Tab>
       </Tabs>
     </BlockchainContext.Provider>
