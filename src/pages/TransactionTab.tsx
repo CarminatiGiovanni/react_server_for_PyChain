@@ -11,7 +11,7 @@ const TransactionTab = () => {
             {   
                 blockchain?.blockchain.map((b: BlockInterface) => {
                     return(
-                        <div key = {b.hash}>
+                        <div key = {b.hash} className='container'>
                             {
                                 b.transactions.map((t: TransactionInterface,index) => {
                                     return (

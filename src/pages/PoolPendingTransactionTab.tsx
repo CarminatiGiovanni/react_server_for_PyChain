@@ -18,12 +18,16 @@ const PoolPendingTransactionTab = () => {
 
     return (
         <>
-            <Button variant="danger" onClick={reload}>Click</Button>
+            <div className='text-center'>
+            <Button variant="danger" onClick={reload}>Refresh Transaction Pool List</Button>
+            </div>
+            <div className='container'>
             {
                 (transactionPool["transaction's pool"] as TransactionInterface[]).map((t,index) => {
                     return <Transaction transaction={t} key={index}/>
                 })
             }
+            </div>  
         </>
     )
 }

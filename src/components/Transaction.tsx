@@ -6,7 +6,7 @@ const Transaction = ({transaction} : {transaction: TransactionInterface}) => {
     const [show,setShow] = useState<boolean>(false)
 
     return(
-        <Dropdown className="d-inline mx-2" show={show} onMouseEnter={() => setShow(true)} onMouseLeave={() => setShow(false)}>
+        <Dropdown className="m-3" show={show} onMouseEnter={() => setShow(true)} onMouseLeave={() => setShow(false)}>
             <Dropdown.Toggle id="dropdown-autoclose-outside">
                 {transaction.title}
             </Dropdown.Toggle>
