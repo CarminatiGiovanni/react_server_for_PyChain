@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react"
-import { Button } from "react-bootstrap"
+import { Button, Container, CardGroup } from "react-bootstrap"
 import { BlockchainContext } from "../App"
 import { TransactionInterface } from "../classes"
 import Transaction from "../components/Transaction"
@@ -21,13 +21,13 @@ const PoolPendingTransactionTab = () => {
             <div className='text-center'>
             <Button variant="danger" onClick={reload}>Refresh Transaction Pool List</Button>
             </div>
-            <div className='container'>
-            {
-                (transactionPool["transaction's pool"] as TransactionInterface[]).map((t,index) => {
-                    return <Transaction transaction={t} key={index}/>
-                })
-            }
-            </div>  
+            <CardGroup>
+                {
+                    (transactionPool["transaction's pool"] as TransactionInterface[]).map((t,index) => {
+                        return <Transaction transaction={t} key={index}/>
+                    })
+                }
+            </CardGroup>
         </>
     )
 }
