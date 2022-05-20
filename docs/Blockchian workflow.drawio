@@ -1,9 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T08:39:59.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tk4fDxv-lmbDX22ETaDs" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T07:11:11.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="9jkgAI0zOQ0pjc3uNIBY" version="18.0.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1897" dy="1236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-285.99722215136416" y="119.00277784863584" width="383.12722215136415" height="374.99722215136416" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-85" value="" style="group" vertex="1" connectable="0" parent="dkjBaHjDjxgbBGwsiAtd-50">
+          <mxGeometry x="17.049999999999997" width="267.8444443027283" height="276.9444443027283" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="58.94722215136416" y="15.947222151364159" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="130.89722215136413" y="15.947222151364159" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=135;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="174.89722215136413" y="58.50722215136416" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="58.94722215136416" y="100.50722215136416" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="130.89722215136413" y="100.50722215136416" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=-45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="15.947222151364159" y="142.50722215136415" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Chain_link_hyperlink_link_linkage_web-128.png;rounded=0;fontSize=11;rotation=45;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="58.94722215136416" y="183.99722215136416" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=11;fillColor=none;strokeColor=#00FF00;strokeWidth=7;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-85">
+          <mxGeometry x="120.96" y="3.64" width="97.99" height="97.99" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="93.37" y="69" width="633.13" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-65" value="" style="group" vertex="1" connectable="0" parent="dkjBaHjDjxgbBGwsiAtd-63">
+          <mxGeometry x="-5.995000000000001" y="-44.89499999999999" width="639.125" height="387.885" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-53" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;INDEX: 2&lt;/i&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;HASH:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;111bf2f6c3e87e0fc5007888b751f2f0&lt;/span&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;TRANSACTIONS:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;PREV HASH:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;00bd7e6b5af6a8e62b6f039591f5d7&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;text-align: center;&quot;&gt;&lt;p style=&quot;text-align: center; font-size: 10px; margin: 0px;&quot;&gt;&lt;i&gt;TIMESTAMP:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;19203819.4214&lt;/i&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;rounded=60;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-65">
+          <mxGeometry x="32.995000000000005" y="44.88499999999999" width="220" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-62" value="" style="group" vertex="1" connectable="0" parent="dkjBaHjDjxgbBGwsiAtd-65">
+          <mxGeometry x="68.995" y="156.885" width="140" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="78" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="46" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="62" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="16" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="31" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=default;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="100" y="4" width="23" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=default;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-62">
+          <mxGeometry x="93" y="16" width="15" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-64" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=#000000;strokeWidth=11;fillColor=none;rotation=90;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-65">
+          <mxGeometry x="-27.564999999999998" y="29.004999999999995" width="341.13" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="351" y="91" width="435.005" height="359.005" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-67" value="" style="group" vertex="1" connectable="0" parent="dkjBaHjDjxgbBGwsiAtd-66">
+          <mxGeometry x="55.005" y="-64.005" width="380" height="423.01" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-68" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Block&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;INDEX: 3&lt;/i&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;HASH:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;f43d8d0f66d0923219ea2e3487d29c&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;TRANSACTIONS:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;PREV HASH:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;111bf2f6c3e87e0fc5007888b751f2f0&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr style=&quot;text-align: center;&quot;&gt;&lt;p style=&quot;text-align: center; font-size: 10px; margin: 0px;&quot;&gt;&lt;i&gt;TIMESTAMP:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;19203840.5323&lt;/i&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;rounded=60;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="32.995000000000005" y="44.88499999999999" width="220" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-69" value="" style="group" vertex="1" connectable="0" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="68.995" y="156.885" width="140" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="78" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="46" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="62" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="16" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/322-Document-128.png;rounded=0;fontSize=11;strokeColor=#00FF00;strokeWidth=7;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="31" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=default;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="100" y="4" width="23" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=none;strokeWidth=7;fillColor=default;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-69">
+          <mxGeometry x="93" y="16" width="15" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-78" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=#000000;strokeWidth=11;fillColor=none;rotation=90;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="-24.004999999999995" y="21.885000000000012" width="341.13" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-82" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFF99;fontSize=11;strokeColor=#00FF00;strokeWidth=11;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="-394" y="-61" width="774" height="446" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-83" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF99;fontSize=11;strokeColor=#000000;strokeWidth=11;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="-71.005" y="174.005" width="120" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;labelBackgroundColor=#FFFF99;fontSize=11;strokeColor=#FF3333;strokeWidth=5;fillColor=none;" vertex="1" parent="dkjBaHjDjxgbBGwsiAtd-67">
+          <mxGeometry x="-176.005" y="148.005" width="73.88" height="73.88" as="geometry" />
+        </mxCell>
+        <mxCell id="dkjBaHjDjxgbBGwsiAtd-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#00FF00;strokeWidth=5;endArrow=none;endFill=0;" edge="1" parent="1" source="dkjBaHjDjxgbBGwsiAtd-51" target="dkjBaHjDjxgbBGwsiAtd-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
