@@ -7,7 +7,7 @@ It also permit to create *new transactions* and verify the transactions in the *
 
 following a schema of the system:
 
-<div style="background-color:white;display:flex; justify-content:center;align-items:center">
+<div style="background-color:white;display:flex; justify-content:center;align-items:center;width:100%;">
     <img src="docs/Diagram%20client-server-blockchain.svg" alt="system architecture"/>
 </div>
 <br/>
@@ -27,7 +27,7 @@ The tecnologies chosen for the server are:
 ## SYSTEM WORKFLOW
 
 following the schema of the workflow from connection to the request of a new *transaction*
-<div style="background-color:white;display:flex; justify-content:center;align-items:center">
+<div style="background-color:white;display:flex; justify-content:center;align-items:center;width:100%;">
     <img src="docs/Diagram%20workflow.drawio.svg" alt="system architecture"/>
 </div>
 <br/>
