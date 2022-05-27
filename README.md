@@ -32,3 +32,13 @@ following the schema of the workflow from connection to the request of a new *tr
 </div>
 <br/>
 
+1. the client makes a GET request to the react server URL
+2. the server sends the page
+3. the client set an address (URL of a raspberry) and send a POST request for the BLOCKCHAIN (passing throught the react server)
+4. the PyChain return the JSON of the *blockchain data*
+5. the react server render the updates to the client
+6. the client submit a new transaction to a blockchain server
+7. the chain add the new transaction and return the status 200 if OK or 500 if an error occurred
+8. the react server ```alert()``` the client
+
+
