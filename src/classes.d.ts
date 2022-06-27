@@ -12,7 +12,7 @@ export interface BlockInterface{
   hash: string,
   transactions: TransactionInterface[],
   nonce: number,
-  prevHash: string,
+  prevHash: string?,
   timestamp: number
 }
 
